@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #6b6868;
+    padding: 1rem;
+    width: 100%;
+}
+
+.nav-links{
+    display: flex;
+    list-style-type: none;
+    gap: 1rem;
+}
